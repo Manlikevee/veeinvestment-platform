@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="180" viewBox="0 0 216 180">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="216" height="180" transform="translate(447 625)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_94" x="91.929" y="42.724" width="55.22" height="54.975" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.97" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.97" result="blur"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_94-2" x="142.587" y="15.159" width="55.22" height="54.975" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.97" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.97" result="blur-2"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_94-3" x="150.754" y="70.089" width="55.22" height="54.975" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.97" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.97" result="blur-3"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(-447 -625)" clip-path="url(#clip-path)">
+    <g id="Group_326" data-name="Group 326" transform="translate(541.954 676.546) rotate(-6.024)" opacity="0.5">
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -88.97, -61.19)" filter="url(#Rectangle_94)">
+        <rect id="Rectangle_94-4" data-name="Rectangle 94" width="34.025" height="33.75" rx="3.96" transform="translate(100.84 52.24) rotate(-6.02)" fill="#fff"/>
+      </g>
+      <path id="facebook" d="M12.8-4.875a6.3,6.3,0,0,0-6.3-6.3,6.3,6.3,0,0,0-6.3,6.3A6.3,6.3,0,0,0,5.516,1.346v-4.4h-1.6v-1.82h1.6V-6.262a2.222,2.222,0,0,1,2.378-2.45,9.691,9.691,0,0,1,1.41.123V-7.04H8.51a.91.91,0,0,0-1.026.983v1.182H9.23l-.279,1.82H7.484v4.4A6.3,6.3,0,0,0,12.8-4.875Z" transform="translate(16.716 23.544)" fill="#2e2e2e" opacity="0.63"/>
+    </g>
+    <g id="Group_350" data-name="Group 350" transform="translate(597.144 642.953) rotate(6.024)">
+      <g transform="matrix(0.99, -0.1, 0.1, 0.99, -151.12, -2.1)" filter="url(#Rectangle_94-2)">
+        <rect id="Rectangle_94-5" data-name="Rectangle 94" width="34.025" height="33.75" rx="3.96" transform="translate(155.04 21.1) rotate(6.02)" fill="#fff"/>
+      </g>
+      <path id="youtube" d="M13.956-8.224A1.742,1.742,0,0,0,12.73-9.458,41.176,41.176,0,0,0,7.313-9.75a41.176,41.176,0,0,0-5.418.292A1.742,1.742,0,0,0,.669-8.224a18.278,18.278,0,0,0-.29,3.359,18.278,18.278,0,0,0,.29,3.359A1.716,1.716,0,0,0,1.895-.292,41.176,41.176,0,0,0,7.313,0,41.176,41.176,0,0,0,12.73-.292a1.716,1.716,0,0,0,1.226-1.214,18.278,18.278,0,0,0,.29-3.359A18.278,18.278,0,0,0,13.956-8.224ZM5.894-2.8V-6.927L9.519-4.865,5.894-2.8Z" transform="translate(14.71 23.989)" fill="#2e2e2e" opacity="0.63"/>
+    </g>
+    <g id="Group_351" data-name="Group 351" transform="translate(600.954 704.293) rotate(-6.024)" opacity="0.5">
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -144.71, -94.96)" filter="url(#Rectangle_94-3)">
+        <rect id="Rectangle_94-6" data-name="Rectangle 94" width="34.025" height="33.75" rx="3.96" transform="translate(159.66 79.6) rotate(-6.02)" fill="#fff"/>
+      </g>
+      <path id="Linkedin" d="M10.563-10.562H.81a.816.816,0,0,0-.81.82V-.008a.816.816,0,0,0,.81.82h9.753a.818.818,0,0,0,.813-.82V-9.742A.818.818,0,0,0,10.563-10.562ZM3.438-.812H1.752V-6.241H3.44V-.812Zm-.843-6.17a.978.978,0,0,1-.978-.978.978.978,0,0,1,.978-.978.98.98,0,0,1,.978.978.976.976,0,0,1-.978.978ZM9.758-.812H8.072V-3.453c0-.63-.013-1.44-.876-1.44-.879,0-1.013.686-1.013,1.394V-.812H4.5V-6.241H6.114V-5.5h.023a1.776,1.776,0,0,1,1.6-.876c1.706,0,2.024,1.125,2.024,2.587Z" transform="translate(17.683 23.544)" fill="#2e2e2e" opacity="0.63"/>
+    </g>
+  </g>
+</svg>

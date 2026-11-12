@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="180" viewBox="0 0 216 180">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_105" data-name="Rectangle 105" width="216" height="180" transform="translate(447 625)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_102" x="84.22" y="20.684" width="116.914" height="54.396" filterUnits="userSpaceOnUse">
+      <feOffset dy="3.004" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.004" result="blur"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_102-2" x="146" y="64.745" width="116.292" height="52.456" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_102-3" x="34.682" y="-18.968" width="116.914" height="54.396" filterUnits="userSpaceOnUse">
+      <feOffset dy="3.004" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.004" result="blur-3"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_12" data-name="Mask Group 12" transform="translate(-447 -625)" clip-path="url(#clip-path)">
+    <g id="Group_344" data-name="Group 344" transform="translate(540.04 657.197) rotate(-3)">
+      <g transform="matrix(1, 0.05, -0.05, 1, -91.23, -37.02)" filter="url(#Rectangle_102)">
+        <rect id="Rectangle_102-4" data-name="Rectangle 102" width="97.336" height="31.093" rx="4.005" transform="translate(93.23 32.02) rotate(-3.14)" fill="#fff"/>
+      </g>
+      <path id="user-circle" d="M8-10.5A2.75,2.75,0,0,0,5.25-7.75,2.75,2.75,0,0,0,8-5a2.75,2.75,0,0,0,2.75-2.75A2.75,2.75,0,0,0,8-10.5Zm0,4A1.251,1.251,0,0,1,6.75-7.75,1.25,1.25,0,0,1,8-9,1.25,1.25,0,0,1,9.25-7.75,1.25,1.25,0,0,1,8-6.5ZM8-14A8,8,0,0,0,0-6,8,8,0,0,0,8,2a8,8,0,0,0,8-8A8,8,0,0,0,8-14ZM8,.5A6.454,6.454,0,0,1,4.109-.806,3.113,3.113,0,0,1,6.881-2.5h2.24A3.117,3.117,0,0,1,11.893-.806,6.469,6.469,0,0,1,8,.5Zm5.006-2.359A4.6,4.6,0,0,0,9.119-4H6.881A4.6,4.6,0,0,0,2.994-1.86,6.466,6.466,0,0,1,1.5-6,6.507,6.507,0,0,1,8-12.5,6.507,6.507,0,0,1,14.5-6,6.476,6.476,0,0,1,13.006-1.859Z" transform="translate(13.214 20.368)"/>
+      <line id="Line_180" data-name="Line 180" x2="27.593" transform="translate(36.121 11.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_181" data-name="Line 181" x2="47.593" transform="translate(36.121 17.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2" opacity="0.7"/>
+    </g>
+    <g id="Group_345" data-name="Group 345" transform="matrix(0.999, 0.035, -0.035, 0.999, 603.357, 694.945)" opacity="0.5">
+      <g transform="matrix(1, -0.04, 0.04, 1, -158.77, -64.45)" filter="url(#Rectangle_102-2)">
+        <rect id="Rectangle_102-5" data-name="Rectangle 102" width="97.214" height="31.054" rx="4" transform="translate(156.09 70.74) rotate(2.01)" fill="#fff"/>
+      </g>
+      <path id="user-circle-2" data-name="user-circle" d="M8-10.5A2.75,2.75,0,0,0,5.25-7.75,2.75,2.75,0,0,0,8-5a2.75,2.75,0,0,0,2.75-2.75A2.75,2.75,0,0,0,8-10.5Zm0,4A1.251,1.251,0,0,1,6.75-7.75,1.25,1.25,0,0,1,8-9,1.25,1.25,0,0,1,9.25-7.75,1.25,1.25,0,0,1,8-6.5ZM8-14A8,8,0,0,0,0-6,8,8,0,0,0,8,2a8,8,0,0,0,8-8A8,8,0,0,0,8-14ZM8,.5A6.454,6.454,0,0,1,4.109-.806,3.113,3.113,0,0,1,6.881-2.5h2.24A3.117,3.117,0,0,1,11.893-.806,6.469,6.469,0,0,1,8,.5Zm5.006-2.359A4.6,4.6,0,0,0,9.119-4H6.881A4.6,4.6,0,0,0,2.994-1.86,6.466,6.466,0,0,1,1.5-6,6.507,6.507,0,0,1,8-12.5,6.507,6.507,0,0,1,14.5-6,6.476,6.476,0,0,1,13.006-1.859Z" transform="translate(13.214 20.368)"/>
+      <line id="Line_180-2" data-name="Line 180" x2="27.593" transform="translate(36.121 11.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_181-2" data-name="Line 181" x2="47.593" transform="translate(36.121 17.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2" opacity="0.7"/>
+    </g>
+    <g id="Group_346" data-name="Group 346" transform="translate(492.312 611.951) rotate(3)" opacity="0.5">
+      <g transform="matrix(1, -0.05, 0.05, 1, -44.57, 15.4)" filter="url(#Rectangle_102-3)">
+        <rect id="Rectangle_102-6" data-name="Rectangle 102" width="97.336" height="31.093" rx="4.005" transform="translate(45.39 -12.96) rotate(3.14)" fill="#fff"/>
+      </g>
+      <path id="user-circle-3" data-name="user-circle" d="M8-10.5A2.75,2.75,0,0,0,5.25-7.75,2.75,2.75,0,0,0,8-5a2.75,2.75,0,0,0,2.75-2.75A2.75,2.75,0,0,0,8-10.5Zm0,4A1.251,1.251,0,0,1,6.75-7.75,1.25,1.25,0,0,1,8-9,1.25,1.25,0,0,1,9.25-7.75,1.25,1.25,0,0,1,8-6.5ZM8-14A8,8,0,0,0,0-6,8,8,0,0,0,8,2a8,8,0,0,0,8-8A8,8,0,0,0,8-14ZM8,.5A6.454,6.454,0,0,1,4.109-.806,3.113,3.113,0,0,1,6.881-2.5h2.24A3.117,3.117,0,0,1,11.893-.806,6.469,6.469,0,0,1,8,.5Zm5.006-2.359A4.6,4.6,0,0,0,9.119-4H6.881A4.6,4.6,0,0,0,2.994-1.86,6.466,6.466,0,0,1,1.5-6,6.507,6.507,0,0,1,8-12.5,6.507,6.507,0,0,1,14.5-6,6.476,6.476,0,0,1,13.006-1.859Z" transform="translate(13.214 20.368)"/>
+      <line id="Line_180-3" data-name="Line 180" x2="27.593" transform="translate(36.121 11.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_181-3" data-name="Line 181" x2="47.593" transform="translate(36.121 17.946)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2" opacity="0.7"/>
+    </g>
+  </g>
+</svg>

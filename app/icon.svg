@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Vee Investment">
+  <rect x="8" y="8" width="240" height="240" rx="64" fill="#007146"/>
+  <path d="M62 62h46l20 105 21-105h45l-39 140h-54L62 62Z" fill="#fff"/>
+  <circle cx="204" cy="64" r="20" fill="#c8f169"/>
+</svg>
